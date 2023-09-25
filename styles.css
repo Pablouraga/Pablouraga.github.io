@@ -23,3 +23,11 @@
 body{
     font-weight: bold;
 }
+td:hover, th:hover{
+    scale: 1.5;
+    transition: 0.2s;
+
+}
+body{
+    padding: 50px 300px;
+}
